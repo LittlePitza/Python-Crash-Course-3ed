@@ -1,5 +1,3 @@
-Aquí tienes un ejemplo de cómo podría lucir un README completo y atractivo para tu repositorio de GitHub, dedicado a los ejercicios del libro "Python Crash Course, 3rd Edition":
-
 ```markdown
 # Python Crash Course - 3rd Edition Exercises
 
@@ -49,4 +47,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 - Cualquier colaborador que haya participado en la revisión de los ejercicios.
 ```
 
-Este README incluye una introducción clara al propósito del repositorio, una descripción de cómo está estructurado, instrucciones para clonar y usar el repositorio, así como la invitación para contribuir y los debidos reconocimientos. Puedes personalizar aún más el contenido según tus necesidades y preferencias.
