@@ -1,4 +1,4 @@
-```markdown
+
 # Python Crash Course - 3rd Edition Exercises
 
 Este repositorio contiene todos los ejercicios propuestos en el libro "Python Crash Course, 3rd Edition" de Eric Matthes. Aquí documentaré mi progreso y soluciones a los diversos ejercicios y proyectos presentados en el libro.
@@ -11,7 +11,7 @@ El objetivo principal de este repositorio es documentar mi aprendizaje y desarro
 
 El repositorio está organizado por capítulos, según se presentan en el libro. Cada capítulo tiene su propia carpeta que contiene los scripts de Python para cada uno de los ejercicios y proyectos del capítulo correspondiente.
 
-```
+
 Python-Crash-Course-3ed/
 │
 ├── Chapter_01/
@@ -23,15 +23,14 @@ Python-Crash-Course-3ed/
 │   ├── exercise_2.py
 │   └── ...
 └── ...
-```
+
 
 ## Cómo Usar Este Repositorio
 
 Para usar este repositorio, simplemente navega a la carpeta del capítulo de tu interés y revisa el código fuente correspondiente. Puedes clonar todo el repositorio a tu máquina local usando el siguiente comando de git:
 
-```bash
-git clone https://github.com/tu-usuario/python-crash-course-3ed.git
-```
+git clone https://github.com/tu-usuario/python-crash-course-3ed.git](https://github.com/LittlePitza/python_crashCourse)
+
 
 ## Contribuciones
 
