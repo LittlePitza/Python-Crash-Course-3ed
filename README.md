@@ -12,17 +12,17 @@ El objetivo principal de este repositorio es documentar mi aprendizaje y desarro
 El repositorio está organizado por capítulos, según se presentan en el libro. Cada capítulo tiene su propia carpeta que contiene los scripts de Python para cada uno de los ejercicios y proyectos del capítulo correspondiente.
 
 
-Python-Crash-Course-3ed/
+📂 Python-Crash-Course-3ed/
 │
-├── Chapter_01/
-│   ├── exercise_1.py
-│   ├── exercise_2.py
-│   └── ...
-├── Chapter_02/
-│   ├── exercise_1.py
-│   ├── exercise_2.py
-│   └── ...
-└── ...
+├── 📂 Chapter_01/ # Capítulo 1
+│ ├── 📄 exercise_1.py # Ejercicio 1
+│ ├── 📄 exercise_2.py # Ejercicio 2
+│ └── 📄 ... # Otros ejercicios
+├── 📂 Chapter_02/ # Capítulo 2
+│ ├── 📄 exercise_1.py # Ejercicio 1
+│ ├── 📄 exercise_2.py # Ejercicio 2
+│ └── 📄 ... # Otros ejercicios
+└── 📂 ... # Otros capítulos
 
 
 ## Cómo Usar Este Repositorio
@@ -44,5 +44,5 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 
 - Eric Matthes, autor del "Python Crash Course, 3rd Edition".
 - Cualquier colaborador que haya participado en la revisión de los ejercicios.
-```
+
 
