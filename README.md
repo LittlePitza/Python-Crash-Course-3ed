@@ -30,7 +30,7 @@ El repositorio está organizado por capítulos, según se presentan en el libro.
 
 Para usar este repositorio, simplemente navega a la carpeta del capítulo de tu interés y revisa el código fuente correspondiente. Puedes clonar todo el repositorio a tu máquina local usando el siguiente comando de git:
 
-git clone https://github.com/tu-usuario/python-crash-course-3ed.git](https://github.com/LittlePitza/python_crashCourse)
+git clone https://github.com/LittlePitza/python_crashCourse
 
 
 ## Contribuciones
