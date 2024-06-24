@@ -12,18 +12,19 @@ El objetivo principal de este repositorio es documentar mi aprendizaje y desarro
 El repositorio está organizado por capítulos, según se presentan en el libro. Cada capítulo tiene su propia carpeta que contiene los scripts de Python para cada uno de los ejercicios y proyectos del capítulo correspondiente.
 
 
+```plaintext
 📂 Python-Crash-Course-3ed/
 │
-├── 📂 Chapter_01/ # Capítulo 1
-│ ├── 📄 exercise_1.py # Ejercicio 1
-│ ├── 📄 exercise_2.py # Ejercicio 2
-│ └── 📄 ... # Otros ejercicios
-├── 📂 Chapter_02/ # Capítulo 2
-│ ├── 📄 exercise_1.py # Ejercicio 1
-│ ├── 📄 exercise_2.py # Ejercicio 2
-│ └── 📄 ... # Otros ejercicios
-└── 📂 ... # Otros capítulos
-
+├── 📂 Chapter_01/          # Capítulo 1
+│   ├── 📄 exercise_1.py    # Ejercicio 1
+│   ├── 📄 exercise_2.py    # Ejercicio 2
+│   └── 📄 ...              # Otros ejercicios
+├── 📂 Chapter_02/          # Capítulo 2
+│   ├── 📄 exercise_1.py    # Ejercicio 1
+│   ├── 📄 exercise_2.py    # Ejercicio 2
+│   └── 📄 ...              # Otros ejercicios
+└── 📂 ...                  # Otros capítulos
+```
 
 ## Cómo Usar Este Repositorio
 
