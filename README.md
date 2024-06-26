@@ -15,11 +15,11 @@ El repositorio está organizado por capítulos, según se presentan en el libro.
 ```plaintext
 📂 Python-Crash-Course-3ed/
 │
-├── 📂 Chapter_01/          
+├── 📂 Part1/          
 │   ├── 📄 exercise_1.py   
 │   ├── 📄 exercise_2.py    
 │   └── 📄 ...              
-├── 📂 Chapter_02/         
+├── 📂 Part2/         
 │   ├── 📄 exercise_1.py    
 │   ├── 📄 exercise_2.py    
 │   └── 📄 ...              
