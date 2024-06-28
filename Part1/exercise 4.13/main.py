@@ -10,7 +10,7 @@ def main():
     menu = ('sushi', 'hamburger', 'hotdog', 'pasta', 'salad')
     print('\nOur menu has been updated!\n')
     for food in menu:
-        print(f'Plate {menu.index(food)+1}: {food}')
+        print(f'Plate {menu.index(food)+1}: {food}')  # This is a better way to print the menu
 
 
 if __name__ == "__main__":
